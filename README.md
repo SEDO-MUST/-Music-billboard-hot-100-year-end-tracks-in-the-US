@@ -1,6 +1,13 @@
 # Data Analytics project about -Music-billboard-hot-100-year-end-tracks-in-the-US
-## Overview
 
+## About Dataset
+
+Every song on Billboard's Year-End Hot 100 from 2000 to 2024 (2,484 chart entries, 2,246 unique tracks). Each song is matched to Spotify audio features and an iTunes genre, given LLM-assigned lyric topics, and scored with lyric metrics, n-gram counts, and NRC emotion word counts.
+https://www.kaggle.com/datasets/matthewwilliams333/billboard-hot-100-year-end-tracks-2000-2024
+
+## Kaggle path 
+
+"matthewwilliams333/billboard-hot-100-year-end-tracks-2000-2024"
 
 ## What is EDA?
 
